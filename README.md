@@ -7,7 +7,7 @@ I am a Senior Associate Software Developer with over five years of extensive exp
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rojalin-barik-57473b1a0)
-[![Website](https://img.shields.io/badge/website-up-brightgreen?style=for-the-badge)]((https://rojalin689.github.io/RojalinBarik/))
+[![Website](https://img.shields.io/badge/website-up-brightgreen?style=for-the-badge)](https://rojalin689.github.io/RojalinBarik/)
  
 ## 💻 Tech Stack:
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
