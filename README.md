@@ -30,5 +30,5 @@ I am a Senior Associate Software Developer with over five years of extensive exp
 [![Swagger](https://img.shields.io/badge/SWAGGER-4BC0C0?style=for-the-badge)](https://img.shields.io/badge/SWAGGER-4BC0C0?style=for-the-badge)
 [![Chart.js](https://img.shields.io/badge/CHART.JS-F291B3?style=for-the-badge)](https://img.shields.io/badge/CHART.JS-F291B3?style=for-the-badge)
 [![IIS](https://img.shields.io/badge/IIS-512BD4?style=for-the-badge)](https://img.shields.io/badge/IIS-512BD4?style=for-the-badge)
-[![React.js](https://img.shields.io/badge/REACT_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://img.shields.io/badge/REACT_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+[![Angular](https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white)
  
